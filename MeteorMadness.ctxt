@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ of\ the\ program\r\n
+comment1.params=
+comment1.target=MeteorMadness()
+comment1.text=\r\n\ This\ runs\ the\ actions\ of\ the\ object\ in\ the\ game\r\n
+comment2.params=
+comment2.target=void\ createSprites()
+comment2.text=\r\n\ Creates\ Sprites\ and\ adds\ Spaceship\ and\ Hearts\ to\ Window\r\n\ \ \r\n\ \ Sprites\ are\:\ Meteorite,\ Stars,\ Life\ and\ Spaceship\r\n\ \ \r\n\ \ -Adds\ Spaceship\r\n\ \ -Adds\ Hearts\ that\ represent\ life\ and\ sets\ their\ position\ \r\n\ \ \r\n
+comment3.params=
+comment3.target=void\ createGameLoop()
+comment3.text=\r\n\ Creates\ Game\ Loop\ -\ this\ runs\ the\ game's\ behaviors\ in\ a\ loop\ until\ certain\ contitions\ are\ met\ \r\n\ \r\n\ \ -Adds\ Stars\ and\ Meteorites\ to\ Window\r\n\ \ -Removes\ all\ Sprites\r\n\ \ \r\n
+comment4.params=
+comment4.target=boolean\ getIsRunning()
+comment4.text=Checks\ if\ game\ loop\ is\ still\ running\r\n\ @return\ isRunning\ -\ Is\ the\ game\ still\ running?\ True\ or\ False\r\n
+comment5.params=isRunning
+comment5.target=void\ setIsRunning(boolean)
+comment5.text=\r\n\ Sets\ the\ state\ of\ the\ game\ loop\r\n\ @param\ \ isRunning\ -\ Want\ the\ game\ loop\ to\ run?\ True\ or\ False\r\n
+numComments=6

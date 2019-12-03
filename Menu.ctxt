@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment1.params=
+comment1.target=void\ createView()
+comment1.text=\r\n\ Sets\ the\ menu\ graphical\ components\ windows\ objects\ will\ be\ viewed\ in.\r\n
+comment2.params=
+comment2.target=void\ importBackground()
+comment2.text=\r\n\ Imports\ image\ of\ background\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ readScore()
+comment3.text=Reads\ the\ highest\ score\ from\ at\ file\ called\ highscore.txt\ in\ the\ res\ folder\r\n\ @return\ line\ -\ returns\ highest\ score\ as\ a\ string\r\n
+comment4.params=
+comment4.target=void\ Title()
+comment4.text=\r\n\ Imports\ image\ containg\ Title\ of\ game\ \r\n
+comment5.params=
+comment5.target=javax.swing.JButton\ startButton()
+comment5.text=\r\n\ Create\ and\ sets\ the\ postion\ of\ thye\ start\ button\ on\ the\ menu\ screen\r\n
+comment6.params=graphics
+comment6.target=void\ highScore(java.awt.Graphics)
+comment6.text=\r\n\ Draws\ high\ score\ of\ game\r\n\ \ @param\ graphics\ The\ Graphics\ object\ on\ which\ the\ game\ high\ score\ is\ drawn\r\n
+comment7.params=graphics
+comment7.target=void\ paintComponent(java.awt.Graphics)
+numComments=8

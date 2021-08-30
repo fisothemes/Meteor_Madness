@@ -1,4 +1,4 @@
-# Meteor_Madness
+# Meteor Madness
 Simple Java game in which you pilot a spaceship, dodge meteors and collect stars</br>
 
 <p>
